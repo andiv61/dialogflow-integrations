@@ -7,7 +7,7 @@
 // const locationId = 'global';
 // const agentId = 'my-agent';
 // const languageCode = 'en'
-// const TELEGRAM_TOKEN='1234567898:ABCdfghTtaD8dfghdfgh45sdf65467M';
+// const TELEGRAM_TOKEN='7726935483:AAGAxGDzwBb53IYexAaAt5BxF4QE9xfamos';
 // const SERVER_URL='https://example.com';
 
 const structProtoToJson =
@@ -17,8 +17,8 @@ const express = require('express');
 const axios = require('axios');
 const bodyParser = require('body-parser');
 
-const API_URL = `https://api.telegram.org/bot${TELEGRAM_TOKEN}`;
-const URI = `/webhook/${TELEGRAM_TOKEN}`;
+const API_URL = `https://api.telegram.org/bot${7726935483:AAGAxGDzwBb53IYexAaAt5BxF4QE9xfamos}`;
+const URI = `/webhook/${7726935483:AAGAxGDzwBb53IYexAaAt5BxF4QE9xfamos}`;
 const WEBHOOK = SERVER_URL + URI;
 
 const app = express();
